@@ -1,6 +1,6 @@
 # Fundamentos-Aritmeticos-em-Javascript
- /**  1/5
- * Quantidade de Números Positivos
+ * - **1/5**
+ * **Quantidade de Números Positivos**
  * 
  * Desafio:
  * - Crie um programa que leia 6 valores. Você poderá receber valores negativos 
@@ -13,9 +13,9 @@
  * Saída:
  * - Exiba uma mensagem dizendo quantos valores positivos foram lidos assim como é 
  * exibido abaixo no exemplo de saída. Não esqueça da mensagem "valores positivos" ao final.
- */
- /** 2/5
- * Exibindo Números Pares
+ *
+ * - **2/5**
+ * **Exibindo Números Pares**
  * 
  * Desafio:
  * - Crie um programa que leia um número e mostre os números pares 
@@ -27,9 +27,9 @@
  * Saída:
  * - Exiba todos os números pares até o valor de entrada, sendo um 
  * em cada linha. 
- */
- /** 3/5 
- * Quantidade de Números Positivos
+ *
+ * - **3/5** 
+ * **Quantidade de Números Positivos**
  * 
  * Desafio:
  * - Você deve fazer a leitura de 5 valores inteiros. 
@@ -45,9 +45,9 @@
  * - Exiba a mensagem conforme o exemplo de saída abaixo, 
  * sendo uma mensagem por linha e não esquecendo o final 
  * de linha após cada uma.
- */
- /** 4/5
- * Contagem de Cédulas
+ *
+ * - **4/5**
+ * **Contagem de Cédulas**
  * 
  * Desafio:
  * - Faça a leitura de um valor inteiro. Em seguida, 
@@ -65,9 +65,9 @@
  * - Exiba o valor lido e a quantidade mínima de notas de 
  * cada tipo necessárias, seguindo o exemplo de saída abaixo. 
  * Após cada linha deve ser imprimido o fim de linha.
- */
- /**  5/5
- * Consumo Médio do Automóvel
+ *
+ * - **5/5**
+ * **Consumo Médio do Automóvel**
  * 
  * Desafio:
  * - Você deve calcular o consumo médio de um automóvel 
@@ -83,4 +83,4 @@
  * Saída:
  * - Exiba o valor que representa o consumo médio do automóvel 
  * (3 casas após a vírgula), incluindo no final a mensagem "km/l".
- */
+ 
